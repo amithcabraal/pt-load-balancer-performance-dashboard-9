@@ -183,5 +183,3 @@ export function ErrorSummaryDashboard({ data }: ErrorSummaryDashboardProps) {
     </div>
   );
 }
-
-export { ErrorSummaryDashboard }
